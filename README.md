@@ -27,3 +27,4 @@ This dashboard was built around a real-world business case, focusing on uncoveri
 
 
 
+<img width="1594" height="916" alt="Screenshot 2025-07-30 135735" src="https://github.com/user-attachments/assets/a5221793-f5dd-4913-949c-730691a7584d" />
